@@ -15,9 +15,10 @@ body {
 
 
 
-
-
-footer {
+.cartao__conteudo
+text-align: center;
+/*background-color: aquamarine;*/
+height: 100%;
     background-color: black;
     color: rgba(255, 255, 255, 0.973);
 }position: fixed;
@@ -25,6 +26,11 @@ bottom: 0;
 width: 100%;
 height: 2rem;
 }
+
+
+
+
+
 
 footer p {
     text-align: center;
