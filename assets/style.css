@@ -19,16 +19,16 @@ body {
 text-align: center;
 /*background-color: aquamarine;*/
 height: 100%;
-    background-color: black;
-    color: rgba(255, 255, 255, 0.973);
-}position: fixed;
-bottom: 0;
-width: 100%;
-height: 2rem;
-}
+    
 
-
-
+.cartao__conteudo h3
+background-color: tomato;
+text-align: left;
+padding: 0.5rem;
+position: absolute;
+margin: 0.6rem;
+border-radius: 0.6rem;
+font-size: 1vw;
 
 
 
